@@ -7,7 +7,7 @@ const char *WIFI_PASSWORD = "password";
  
 const char *MQTT_HOST = "mqtt_host";
 const int MQTT_PORT = 1883;       //port number
-const char *MQTT_CLIENT_ID = "ESP8266 NodeMCU";
+const char *MQTT_CLIENT_ID = "Actuator NodeMCU";
 const char *MQTT_USER = "user";   //broker user
 const char *MQTT_PASSWORD = "pass"; //broker user password
 const char *TOPIC_LED = "wwtp/led";
